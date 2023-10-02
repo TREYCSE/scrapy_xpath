@@ -8,14 +8,18 @@ For this lab, you will use a GitHub Repository Template
 ###### https://github.com/alfredodeza/scrapy-xpath
 ##### You can clone this template to your own account and create a Codespace which is an environment that has Visual Studio Code with all libraries installed. If you've never used Codespaces before, watch this short video explaining how to create one. 
 ###### https://docs.scrapy.org/en/latest/intro/tutorial.html.
-* Click "Use this template"  and select the "Create a new repository" so that the template gets copied to your own GitHub account (you will need a GitHub Account).
-* One you have the repository in your account, click on "Code" and then on "Codespaces"
-* Once the Codespace launches and load Visual Studio Code, all dependencies and extensions should be installed by default, but you can ensure your installation works correctly by opening a Python prompt and importing the scrapy library. It should work without issues.
-
+* Click "Use this template"  and select the "Create a new repository" so that the template gets copied to your own GitHub account (you will need a GitHub Account).\
 
 <img src="https://i.postimg.cc/7hqMMzbN/chxjenn-GR-q3xy-Kt-Avkc-KQ-991d8cb0f7a24eb1add04e26380315f1-Screenshot-2023-04-05-at-7-56-18-PM.png" align="center"></img>
 
+
+* One you have the repository in your account, click on "Code" and then on "Codespaces"
+
+
 <img src="https://i.postimg.cc/pLPrWB4C/h-Fy-XPRf2-Toi-Fbqk-K8-LVF3-Q-55ba2b62360e46e09e9125c412dcabf1-Screenshot-2023-04-05-at-7-57-55-PM.png" align="center"></img>
+
+
+* Once the Codespace launches and load Visual Studio Code, all dependencies and extensions should be installed by default, but you can ensure your installation works correctly by opening a Python prompt and importing the scrapy library. It should work without issues.
 
 <img src="https://i.postimg.cc/zvk79j4M/7f-GIsi-S-So-Oxi-LIkvtq-D8w-e16ace51f81545ae9ddd4b964477fff1-Screen-Shot-2022-01-05-at-8-27-09-AM.png" align="center"></img>
 
