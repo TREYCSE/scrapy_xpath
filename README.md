@@ -1,4 +1,39 @@
-# scrapy_xpath
+# scrapy_xpath Codespaces Lab: Parse HTML with Scrapy and XPath
+## Parsing with Scrapy and Xpath
+
+Exercise for scraping using scrapy, parsing a real website, extracting key information that is not available through an API and using SQL to query it later. Again, you will use an already existing local HTML file that was previously downloaded and available in this repo. This prevents websites changing and breaking the parsing in this repository.
+
+Objective: to extract the names and medal (or position) from the top three High Jumpers in the World Junior Championships as presented in their respective Wikipedia pages.
+
+This lab uses Codespaces
+
+For this lab, you will use a 
+GitHub Repository Template
+. You can clone this template to your own account and create a Codespace which is an environment that has Visual Studio Code with all libraries installed. If you've never used Codespaces before, 
+watch this short video
+ explaining how to create one. 
+
+Click "Use this template"  and select the "Create a new repository" so that the template gets copied to your own GitHub account (you will need a GitHub Account).
+
+
+One you have the repository in your account, click on "Code" and then on "Codespaces"
+
+
+Once the Codespace launches and load Visual Studio Code, all dependencies and extensions should be installed by default, but you can ensure your installation works correctly by opening a Python prompt and importing the scrapy library. It should work without issues.
+
+Use the Scrapy Get Started documentation for reference: 
+https://docs.scrapy.org/en/latest/intro/tutorial.html
+
+
+Use the pre-created project and spider
+
+In VSCode open up a new terminal. In the top menu, find the Terminal menu and then select New Terminal. If the virtual environment isn't activated automatically, activate it manually:
+
+source /home/vscodoe/venv/bin/activate
+
+When you activate the virtual environment, you may get a popup showing in your editor. Select yes:
+
+
 ## Parsing With HTMLParser
 
 Python has a built-in parser for HTML. Knowing how to use and take advantage of the HTMLParser library will help you when parsing is needed for simple tasks that do not need much effort.
