@@ -2,6 +2,7 @@
 ## Parsing with Scrapy and Xpath
 
 ###### https://github.com/alfredodeza/scrapy-xpath
+###### https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 
 Exercise for scraping using scrapy, parsing a real website, extracting key information that is not available through an API and using SQL to query it later. Again, you will use an already existing local HTML file that was previously downloaded and available in this repo. This prevents websites changing and breaking the parsing in this repository.
