@@ -15,6 +15,11 @@ For this lab, you will use a GitHub Repository Template
 
 <img src="https://i.postimg.cc/7hqMMzbN/chxjenn-GR-q3xy-Kt-Avkc-KQ-991d8cb0f7a24eb1add04e26380315f1-Screenshot-2023-04-05-at-7-56-18-PM.png" align="center"></img>
 
+<img src="https://i.postimg.cc/pLPrWB4C/h-Fy-XPRf2-Toi-Fbqk-K8-LVF3-Q-55ba2b62360e46e09e9125c412dcabf1-Screenshot-2023-04-05-at-7-57-55-PM.png" align="center"></img>
+
+<img src="https://i.postimg.cc/zvk79j4M/7f-GIsi-S-So-Oxi-LIkvtq-D8w-e16ace51f81545ae9ddd4b964477fff1-Screen-Shot-2022-01-05-at-8-27-09-AM.png" align="center"></img>
+
+
 
 
 ###### Use the Scrapy Get Started documentation for reference:  https://docs.scrapy.org/en/latest/intro/tutorial.html
