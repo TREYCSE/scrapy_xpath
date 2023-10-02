@@ -1,18 +1,12 @@
 # Codespaces Lab: Parse HTML with Scrapy and XPath
 ## Parsing with Scrapy and Xpath
 
-
-
-
-
 * Exercise for scraping using scrapy, parsing a real website, extracting key information that is not available through an API and using SQL to query it later. Again, you will use an already existing local HTML file that was previously downloaded and available in this repo. This prevents websites changing and breaking the parsing in this repository.
 * Objective: to extract the names and medal (or position) from the top three High Jumpers in the World Junior Championships as presented in their respective Wikipedia pages.
 
-For this lab, you will use a 
-GitHub Repository Template
+For this lab, you will use a GitHub Repository Template
 ###### https://github.com/alfredodeza/scrapy-xpath
-##### You can clone this template to your own account and create a Codespace which is an environment that has Visual Studio Code with all libraries installed. If you've never used Codespaces before, 
-watch this short video explaining how to create one. 
+##### You can clone this template to your own account and create a Codespace which is an environment that has Visual Studio Code with all libraries installed. If you've never used Codespaces before, watch this short video explaining how to create one. 
 ###### https://docs.scrapy.org/en/latest/intro/tutorial.html.
 * Click "Use this template"  and select the "Create a new repository" so that the template gets copied to your own GitHub account (you will need a GitHub Account).
 * One you have the repository in your account, click on "Code" and then on "Codespaces"
