@@ -1,4 +1,4 @@
-# scrapy_xpath Codespaces Lab: Parse HTML with Scrapy and XPath
+# Codespaces Lab: Parse HTML with Scrapy and XPath
 ## Parsing with Scrapy and Xpath
 
 ###### https://github.com/alfredodeza/scrapy-xpath
