@@ -12,6 +12,11 @@ For this lab, you will use a GitHub Repository Template
 * One you have the repository in your account, click on "Code" and then on "Codespaces"
 * Once the Codespace launches and load Visual Studio Code, all dependencies and extensions should be installed by default, but you can ensure your installation works correctly by opening a Python prompt and importing the scrapy library. It should work without issues.
 
+
+<img src="https://i.postimg.cc/7hqMMzbN/chxjenn-GR-q3xy-Kt-Avkc-KQ-991d8cb0f7a24eb1add04e26380315f1-Screenshot-2023-04-05-at-7-56-18-PM.png" align="center"></img>
+
+
+
 ###### Use the Scrapy Get Started documentation for reference:  https://docs.scrapy.org/en/latest/intro/tutorial.html
 
 Use the pre-created project and spider
